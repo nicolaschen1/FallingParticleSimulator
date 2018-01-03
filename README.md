@@ -53,7 +53,7 @@ load 'positions.plt'
 
 The user can see the trajectory of each particle in space (see below).
 
-![Particles]
+![Particles](https://github.com/nicolaschen1/FallingParticleSimulator/blob/master/particleImages/ten_particles.png)
 
 ## Example
 
@@ -119,4 +119,4 @@ End of calculating positions, please call gnuplot and typing load 'positions.plt
 
 And we get the plot of the particles falls as shown below:
 
-![FallParticles]
+![FallParticles](https://github.com/nicolaschen1/FallingParticleSimulator/blob/master/particleImages/two_particles.png)
