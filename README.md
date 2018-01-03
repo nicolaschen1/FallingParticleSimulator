@@ -78,7 +78,7 @@ We set the following parameters for two particles, see the tables below:
 |Initial velocity Vy|1|2|
 |Initial velocity Vz|1|2|
 
-See [FPS Equations] (https://github.com/alphaground123/test2/blob/master/FPS_Equations.md)
+See [FPS Equations]
 
 
 In the terminal:
