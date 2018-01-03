@@ -78,7 +78,7 @@ We set the following parameters for two particles, see the tables below:
 |Initial velocity Vy|1|2|
 |Initial velocity Vz|1|2|
 
-See [FPS Equations]
+See [FPS Equations](https://github.com/nicolaschen1/FallingParticleSimulator/blob/master/FPS_EQUATIONS.md)
 
 
 In the terminal:
