@@ -120,3 +120,6 @@ End of calculating positions, please call gnuplot and typing load 'positions.plt
 And we get the plot of the particles falls as shown below:
 
 ![FallParticles](https://github.com/nicolaschen1/FallingParticleSimulator/blob/master/particleImages/two_particles.png)
+
+## Author
+Nicolas Chen
